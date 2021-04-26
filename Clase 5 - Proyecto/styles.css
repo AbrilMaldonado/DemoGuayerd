@@ -1,0 +1,116 @@
+body {
+   background-color: #d1bf91;
+}
+
+
+.menu {
+   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+   text-align: center;
+   background-color: #a6341b;
+   font-size: 35px;
+   }   
+
+
+   #titulop {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+      margin-top: 50px;
+      font-size: 50px;
+      color: #60371e;
+      font-variant: small-caps;
+      text-align: center;
+      }
+
+
+   #subt {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+      text-align: center;
+      font-style: italic;
+      font-weight: inherit;
+      font-size: 30px;
+      margin-top: 30px;
+   }  
+
+   .pp {
+      text-align: center;
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+      font-size: 23px;
+      margin-left: 50px;
+      margin-right: 50px;
+      margin-top: 50px;
+   }
+
+   a {
+      text-decoration: none;
+      color: ivory;
+      margin-left: 30px;
+      margin-right: 50px;
+      text-align: center;
+   }
+
+   
+
+   .fotopizza {
+      margin-left: 180px;
+      margin-top: 70px;
+      border-style: solid;
+      border-color: #f9c743;
+      float: left;
+      border-radius: 20px;
+   }
+
+
+
+   .ppn {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+      font-size: 20px;
+      margin-right: 200px;
+      float: inline-start;
+      margin-left: 500px;
+      padding-top: 40px;
+      margin-bottom: 30px;
+}
+
+
+   .titulopn {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+      font-style: oblique;
+      }
+
+   
+   span {
+      font-size: 19px;
+      font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+      font-style: italic;
+      padding-left: 200px;
+      }   
+
+
+   li {
+      list-style-type: none;
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+      font-size: 30px;
+      margin-top: 30px;
+      margin-bottom: 30px;
+
+   }
+
+
+   .form {
+      text-align: left;
+      margin-left: 500px;
+      margin-top: 50px;
+      border-style: outset;
+      border-color: #A6341B;
+      margin-right: 450px;
+      background-color:#F9C743;
+      border-radius: 20px;
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+   }
+
+   footer {
+      text-align: center;
+      background-color: #A6341B66;
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+      color: white;
+      margin-top: 200px;
+   }
